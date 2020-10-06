@@ -13,6 +13,6 @@ int main()
 
 	cout << "Среднее арифметическое этих четырех чисел " << (double(a + b + c + d) / 4) << endl;
 	
-	return 0;
+	return 0; // dlya gita
 
 }
